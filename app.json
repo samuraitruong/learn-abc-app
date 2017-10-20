@@ -1,0 +1,15 @@
+{
+  "expo": {
+    "sdkVersion": "21.0.0",
+    "name": "Khoai ABC",
+    "version": "1.0.0",
+    "slug": "learn-abc",
+    "ios": {
+      "bundleIdentifier": "com.samuraitruong.abc"
+    },
+    "android": {
+      "package": "com.samuraitruong.abc"
+    }
+
+  }
+}
